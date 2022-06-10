@@ -38,6 +38,10 @@ namespace WindowsFormsApp2
               string sexo = Convert.ToString(txtsexo.Text);
 
             string fechadenacim = Convert.ToString(txtfechanaci.Text);
+
+            string nombre = "¡Bienvenido ala App!";
+
+            txtBienvenid.Text = nombre.ToString();
             }
 
     }
