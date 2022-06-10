@@ -34,6 +34,10 @@ namespace WindowsFormsApp2
             string vuelveaingres = Convert.ToString(txtvuelveaingres.Text);
 
             string contrase = Convert.ToString(txtcontras.Text);
+
+              string sexo = Convert.ToString(txtsexo.Text);
+
+            string fechadenacim = Convert.ToString(txtfechanaci.Text);
             }
 
     }
